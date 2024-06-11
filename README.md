@@ -1,7 +1,15 @@
 # EI101
 ## Index
-1. [Topic 1](#Topic-1)
-2. [Topic 2](#Topic-2)
+1. [Topic 1 (Feeling Smart)](#Topic-1)
+2. [Topic 2 (Assesing your Emotional Intelligence)](#Topic-2)
+3. [Topic 3 (Emotional Intelligence in Depth)](#Topic-3)
+4. [Topic 4 (The EI Model)](#Topic-4)
+5. [Topic 5 (The Open Loop)](#Topic-5)
+6. [Topic 6 (Management vs Leadership)](#Topic-6)
+7. [Topic 7 (Leadership that Works)](#Topic-7)
+8. [Topic 8 (Ethics & Leadership)](#Topic-8)
+9. [Topic 9 (Feedback)](#Topic-9)
+10. [Topic 10 (Teamwork)](#Topic-10)
 
 ----
 
@@ -24,6 +32,7 @@ interactions and
 effectively handle
 different real life
 situations.
+***
 #### Characteristics of Emotionally Intelligent Person
 **At the personal level:**
 - Remain positive despite challenging
@@ -51,8 +60,9 @@ Social intelligence skills:
 - Build healthy relationships
 - Persuasion
 
-> [!NOTE] The Golden Rule
-> 
+***
+> [!NOTE] 
+> **The Golden Rule**
 A study found that if you do something good for someone
 without expecting any kind of compensation, you will be
 rewarded someday in the future 
@@ -61,4 +71,75 @@ rewarded someday in the future
 - A soft force in which the tendency of doing something
 good for others will increase the chances of others doing
 good for you
-- What goes around comes around
+- *What goes around comes around*
+
+
+###### When to be tough?
+- Someone taking advantage of you
+- Inappropriate jokes
+- Situations where you need to take a strong position
+***
+#### Benefits of Emotional Intelligence
+- Successfully adapt to changes
+- Reach targets while simultaneously maintaining the loyalty of employees
+- Understand and uphold their responsibility to the customers, suppliers, networks and society
+***
+#### Advantages of Emotional Intelligence at Work
+##### The People
+- Hiring high-quality Employees
+- Assigning tasks to the Right Employees
+- Creating an Environment of Trust
+- Provide effective Training
+##### The Work
+- Make the Work more Interesting
+- Challenge the Employees without overwhelming them
+- Provide the right tools to fulfil the Company's goals
+- Provide Fair Compensations
+
+#### The Purpose
+To achieve an Intelligent workspace, Employees need to understand:
+1. The reason behind the work they do.
+2. The company's Mission & Goals
+***
+#### EI at Home
+Enables Individuals to :
+- Understand & Manage their own Emotions
+- Socialize & be empathetic while interacting with family members
+- Improve Family relationships
+###### Benefits
+- Manage your moods
+- Teach generosity by receiving as well as giving
+- Be generous in expressing love
+- Building trust
+***
+
+
+
+
+
+---
+## Topic-10
+#### Importance of Teams
+Teams have:
+- More Talent & Experience
+- More Diversity & Resources
+- Greater flexibility than individuals
+- Superiority of group decision-making than the Brightest individual alone
+
+> [!WARNING]
+> Exception to this is when the group lacks harmony or ability to cooperate
+
+Problems in Teams
+- Teams are cauldrons of bubbling emotions
+- Alliances form
+- Clashing agendas get set
+- A team's leader must be able to sense and understand the viewpoints of everyone around the table
+***
+There are 2 ways of managing Teams, `Task Process (The old way)` or `Team Emotional Intelligence(the new way)`
+#### Task Process
+- Cooperation
+- Participation
+- Commitment to goal
+- Teams should imitate these skills
+- `Problem`: pianist/actor
+
