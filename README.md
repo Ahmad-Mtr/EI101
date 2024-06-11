@@ -121,8 +121,39 @@ Enables Individuals to :
 ## Topic-4
 ---
 ## Topic-5
+![Img](./assets/tp5-01.png)
+![Img](./assets/tp5-02.png)
+![Img](./assets/tp5-03.png)
+![Img](./assets/tp5-04.png)
+![Img](./assets/tp5-05.png)
+![Img](./assets/tp5-06.png)
+![Img](./assets/tp5-07.png)
+![Img](./assets/tp5-08.png)
+![Img](./assets/tp5-09.png)
+![Img](./assets/tp5-10.png)
+![Img](./assets/tp5-11.png)
+![Img](./assets/tp5-12.png)
+![Img](./assets/tp5-13.png)
+![Img](./assets/tp5-14.png)
+![Img](./assets/tp5-15.png)
+![Img](./assets/tp5-16.png)
+![Img](./assets/tp5-17.png)
+![Img](./assets/tp5-18.png)
+![Img](./assets/tp5-19.png)
+![Img](./assets/tp5-20.png)
+![Img](./assets/tp5-20.png)
+![Img](./assets/tp5-21.png)
+![Img](./assets/tp5-22.png)
+![Img](./assets/tp5-23.png)
 ---
 ## Topic-6
+![Img](./assets/tp6-01.png)
+![Img](./assets/tp6-02.png)
+![Img](./assets/tp6-03.png)
+![Img](./assets/tp6-04.png)
+![Img](./assets/tp6-05.png)
+![Img](./assets/tp6-06.png)
+
 ---
 ## Topic-7
 ![Img](./assets/tp7-01.png)
