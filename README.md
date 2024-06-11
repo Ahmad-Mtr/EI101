@@ -135,7 +135,6 @@ Enables Individuals to :
 ![Img](./assets/tp5-12.png)
 ![Img](./assets/tp5-13.png)
 ![Img](./assets/tp5-14.png)
-![Img](./assets/tp5-15.png)
 ![Img](./assets/tp5-16.png)
 ![Img](./assets/tp5-17.png)
 ![Img](./assets/tp5-18.png)
@@ -166,15 +165,17 @@ Enables Individuals to :
 ![Img](./assets/tp7-07.png)
 ![Img](./assets/tp7-08.png)
 ![Img](./assets/tp7-09.png)
-![Img](tp7-10.png)
-![Img](tp7-11.png)![Img](tp7-12.png)![Img](tp7-13.png)![Img](tp7-14.png)![Img](tp7-15.png)
-![Img](tp7-16.png)
+![Img](./assets/tp7-10.png)
+![Img](./assets/tp7-11.png)
+![Img](./assets/tp7-12.png)
+![Img](./assets/tp7-13.png)
+![Img](./assets/tp7-14.png)
+![Img](./assets/tp7-15.png)
+![Img](./assets/tp7-16.png)
+![Img](./assets/tp7-17.png)
+![Img](./assets/tp7-18.png)
+![Img](./assets/tp7-20.png)
 
-![Img](tp7-17.png)
-
-![Img](tp7-18.png)
-
-![Img](tp7-20.png)
 
 
 ---
