@@ -125,15 +125,128 @@ Enables Individuals to :
 ## Topic-6
 ---
 ## Topic-7
+![Img](./assets/tp7-01.png)
+![Img](./assets/tp7-02.png)
+![Img](./assets/tp7-03.png)
+![Img](./assets/tp7-04.png)
+![Img](./assets/tp7-05.png)
+
+
+![[tp7-02.png]]
+
 ---
 ## Topic-8
+> [!Note]
+> **`Ethics`** :  A system of accepted behaviours governed by what is morally right or wrong.
+#### Six Pillars of charachter
+1. Trustworthiness
+2. Respect
+3. Responsibility
+4. Fairness
+5. Caring
+6. Citizenship
+
+
+**Trustworthiness**
+- Be Honest, don't cheat
+- Have Integrity, `Do what you say`
+- Keep Promises
+- Be Loyal, stand by your values
+
+**Respect**
+- Follow the Golden Rule
+- Be accepting of differences
+- Be Courteous ~مهذب~ to others
+- Deal peacefully with anger
+- Be considerate of others' feelings
+
+**Responsibility**
+- Do what you're supposed to do
+- Be self-disciplined
+- Think before you act. Consider the Consequences
+- Be accountable for your words, actions
+
+**Fairness**
+- Follow the rules
+- Be open-minded
+- Don't take advantage of others
+
+**Caring**
+- Be kind
+- Be compassionate
+- Express Gratitude
+- Forgive Others
+
+**Citizenship**
+- Do your share to make your environment better
+- Cooperate
+- Make choices that protect safety
+- Protect the Environment
+#### Ethical Dilemmas & Solutions
+**Right vs Wrong**
+`Right`
+- Following rules and regulations.
+- Person is fair, just and accurate.
+`Wrong`
+- Against laws, ethics, morals. 
+- Flawed reasoning.
+
+
+This offers four categories of dilemmas:
+**Truth vs Loyalty**
+- Honesty is in conflict with loyalty and keeping secrets.
+**Justice vs Mercy**
+- Applying the law is in conflict with compassion.
+**Individual vs Community**
+- Your own benefit vs that of the Community
+**Short-term vs long-term**
+- Immediate results vs Future results
+> [!NOTE]
+> **`Transparency:`** The leader must be transparent in his/her moral values and ethics in order to uphold a fair and trustworthy reputation.
+
+#### Moral Courage
+ We need to have moral courage when faced with unethical issue, by applying the following:
+- **Applying values**: understanding and applying your moral values
+- **Recognizing risks**: recognize that there might be some potential risks when you apply your moral values
+- **Enduring hardships**: being able to endure the negative consequences
+
+#### Solutions
+**Code of Conduct**
+-  Ethics guide or reference for organizations that individuals can clearly follow.
+**Ethics training**
+- Training which the organization can provide to the employees to clarify the company's mission and values.
+
 ---
 ## Topic-9
 
+#### Feedback
+- Lifeblood of the organization
+- Without feedback, problems get worse
+- Without feedback, good performance gets lost
+- One of the manager's most important tasks
+- Effectiveness, satisfaction, productivity
+
+#### Interpersonal Skills
+- The future of corporate management is in interpersonal skills
+> "When emotionally upset, people cannot remember, attend, learn, or make decisions clearly." - "stress makes people stupid!"
+- Praise makes people confident
 
 
-
-
+#### Artful Critique
+- Be **specific** about necessary changes
+- Be **specific** about reasons for praise (learning)
+- Offer a **solution**
+- Be **present**, face-to-face and in private
+- Be **sensitive**: Empathy
+- Be a **partner** as opposed to an adversary
+#### Giving Constructive Criticism
+- Acknowledge the positive
+- Give specific Feedback with solutions
+- Return to calm
+#### Receiving Criticism
+- Listen
+- Clarify (don't counterattack)
+- Give yourself a break
 ---
 ## Topic-10
 #### Importance of Teams
@@ -160,3 +273,14 @@ There are 2 ways of managing Teams, `Task Process (The old way)` or `Team Emotio
 - Teams should imitate these skills
 - `Problem`: pianist/actor
 
+#### Team EI
+- Trust among Members
+- A sense of group identity
+- A sense of group efficacy (~فعالية)
+ 
+#### How to Build Team Emotional Intelligence
+- Perspective taking
+- Interpersonal understanding
+- Self evaluation
+- Team-building outings
+- Cross-boundary relationships
