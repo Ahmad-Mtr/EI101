@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "assets/tp7-05.png"
+                "file": "assets/tp7-17.png"
               }
             }
           },
@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c97999db01558cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,16 +169,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2ebd41fecb38f1f",
+  "active": "9c97999db01558cc",
   "lastOpenFiles": [
-    "assets/tp7-05.png",
+    "assets/tp7-18.png",
     "README.md",
-    "assets/tp7-06.png",
-    "assets/tp7-02.png",
-    "assets/tp7-04.png",
-    "assets/tp7-03.png",
-    "assets/tp7-01.png",
-    "assets",
-    "Pasted image 20240611162635.png"
+    "assets/tp7-17.png",
+    "Pasted image 20240611195012.png",
+    "assets/tp7-09.png",
+    "assets/tp7-16.png",
+    "assets/tp7-15.png",
+    "assets/tp7-14.png",
+    "assets/tp7-10.png",
+    "assets/tp7-13.png",
+    "assets/tp7-12.png",
+    "assets"
   ]
 }

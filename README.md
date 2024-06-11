@@ -129,10 +129,22 @@ Enables Individuals to :
 ![Img](./assets/tp7-02.png)
 ![Img](./assets/tp7-03.png)
 ![Img](./assets/tp7-04.png)
-![Img](./assets/tp7-05.png)
+  ![Img](./assets/tp7-05.png)
 
+![Img](./assets/tp7-06.png)
+![Img](./assets/tp7-07.png)
+![Img](./assets/tp7-08.png)
+![Img](./assets/tp7-09.png)
+![Img](tp7-10.png)
+![Img](tp7-11.png)![Img](tp7-12.png)![Img](tp7-13.png)![Img](tp7-14.png)![Img](tp7-15.png)
+![Img](tp7-16.png)
 
-![[tp7-02.png]]
+![Img](tp7-17.png)
+
+![Img](tp7-18.png)
+
+![Img](tp7-20.png)
+
 
 ---
 ## Topic-8
@@ -284,3 +296,9 @@ There are 2 ways of managing Teams, `Task Process (The old way)` or `Team Emotio
 - Self evaluation
 - Team-building outings
 - Cross-boundary relationships
+
+
+************
+:::::::::::::::::::::::::::::::::::::::
+![[tp7-17.png]]
+![[tp7-18.png]]
